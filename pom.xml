@@ -31,3 +31,5 @@
         </plugins>
     </build>
 </project>
+<test>
+</test>
